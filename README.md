@@ -2,19 +2,8 @@
 Projeto calculadora um aplicativo desenvolvido em Csharp usando tudo que foi de conhecimento no 1º Semestre na ETEC. Sera usado as operações basicas aritiméticas com um Bônus de gastos mensais.
 
 # Designer
-  ___      _            _           _
-  / __\__ _| | ___ _   _| | __ _  __| | ___  _ __ __ _ 
- / /  / _` | |/ __| | | | |/ _` |/ _` |/ _ \| '__/ _` |
-/ /__| (_| | | (__| |_| | | (_| | (_| | (_) | | | (_| |
-\____/\__,_|_|\___|\__,_|_|\__,_|\__,_|\___/|_|  \__,_|
-
-╔═══════════════════ MENU DE OPÇÃO ═══════════════════╗
-║ 1.ADIÇÃO                           5.EXPONENCIAÇÃO  ║
-║ 2.SUBTRAÇÃO                        6.RADICIAÇÃO     ║
-║ 3.MULTIPLICAÇÃO                    7.BÔNUS          ║
-║ 4.DIVISÃO                          8.SOBRE          ║
-║                                    0.SAIR           ║
-╚═════════════════════════════════════════════════════╝
+![Designer](designer.png)
+ 
 
 ## _Screenshot_
 
